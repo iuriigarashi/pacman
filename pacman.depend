@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1561511321 source:c:\users\xadu\desktop\pacman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio2.h>
+	<windows.h>
+	<time.h>
+
