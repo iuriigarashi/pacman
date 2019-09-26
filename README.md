@@ -1,5 +1,5 @@
-## PACMAN
-# by Iuri Igarashi
+# PACMAN
+### by Iuri Igarashi
 Pequeno jogo pacman feito em C usando a IDE CodeBlocks
 Movimentação:
 * W - Acima
